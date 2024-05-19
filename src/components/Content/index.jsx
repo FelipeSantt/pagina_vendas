@@ -3,7 +3,7 @@ import { Button } from "primereact/button";
 const Content = () => {
     return ( 
         <>
-            <div className="formgrid flex p-8 gap-8 align-items-center sm:flex-column">
+            <div className="formgrid flex p-8 gap-8 align-items-center">
                 <div className="field col">
                     <h1>🤩Bemvind@s</h1>
                     <p>👋 Olá! Somos o Salgadinhos da Hora. Temos um imenso prazer em ter você como cliente. 🥰Quer ver o que temos pra você hoje? 👇Visita no CARDÁPIO abaixo.👇</p>
